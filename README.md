@@ -16,7 +16,7 @@ My project is aimed at :
 
 ### Exploratory Data Analysis
 
-![alt]{https://github.com/Param1304/Customer-Churn-Analysis-and-Prediction/blob/main/Churning_status.png}
+![alt](https://github.com/Param1304/Customer-Churn-Analysis-and-Prediction/blob/main/Churning_status.png)
 About 10% of the total consumers gets churned and these are distributed across 5 different sales channels.
 
 ![alt]{https://github.com/Param1304/Customer-Churn-Analysis-and-Prediction/blob/main/Sales_channel.png}
