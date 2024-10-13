@@ -43,6 +43,7 @@ Outliers in margin variables
 * Transform numerical data
 
 ### Churn Prediction
+![alt](https://github.com/Param1304/Customer-Churn-Analysis-and-Prediction/blob/main/Screenshot%202024-10-14%20001120.png)
 * Model
 Random Forest classifier has been used for this task. Random Forest sits within the category of ensemble algorithms because internally the forest refers to a collection of decision trees. Ensemble algorithms are powerful because of the laws of averaging, weak learners and central limit theorem. With ensemble methods instead of banking on one single trained model we can train 1000's of decision trees all using different splits of the data and learning different patterns. 
 * Evaluation
